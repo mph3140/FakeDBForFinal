@@ -1,8 +1,8 @@
 {
   "collections": [
-    { "collectionId": 1, "name": "Jordan", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/air-jordan-logo.jpg" },
-    { "collectionId": 2, "name": "Nike", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/nike-logo.png" },
-    { "collectionId": 3, "name": "Adidas", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/Adidas_Logo_Stack__93206.1337144792.380.380.jpg" }
+    { "collectionId": 1, "name": "Jordan", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/air-jordan-logo.jpg?raw=true" },
+    { "collectionId": 2, "name": "Nike", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/nike-logo.png?raw=true" },
+    { "collectionId": 3, "name": "Adidas", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/Adidas_Logo_Stack__93206.1337144792.380.380.jpg?raw=true" }
   ],
   "shoes": [
     { "shoeId": 1, "name": "Retro 4 Cement", "collectionId": 1 },
