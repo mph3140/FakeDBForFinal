@@ -5,12 +5,12 @@
     { "collectionId": 3, "name": "Adidas", "brandLogoURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/brandLogos/Adidas_Logo_Stack__93206.1337144792.380.380.jpg?raw=true" }
   ],
   "shoes": [
-    { "shoeId": 1, "name": "Retro 4 Cement", "collectionId": 1, "shoeImage": "" },
-    { "shoeId": 2, "name": "Retro 6 UNC", "collectionId": 1, "shoeImage": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/shoeImages/retro_6_unc.jpg?raw=true" },
-    { "shoeId": 3, "name": "Huarache", "collectionId":  2, "shoeImage": "" },
-    { "shoeId": 4, "name": "Air Max", "collectionId":  2, "shoeImage": "" },
-    { "shoeId": 5, "name": "Nomad", "collectionId":  3, "shoeImage": "" },
-    { "shoeId": 6, "name": "Ultra Boost", "collectionId":  3, "shoeImage": ""}
+    { "shoeId": 1, "name": "Retro 4 Cement", "collectionId": 1, "shoeImageURL": "" },
+    { "shoeId": 2, "name": "Retro 6 UNC", "collectionId": 1, "shoeImageURL": "https://github.com/mph3140/FakeDBForFinal/blob/master/images/shoeImages/retro_6_unc.jpg?raw=true" },
+    { "shoeId": 3, "name": "Huarache", "collectionId":  2, "shoeImageURL": "" },
+    { "shoeId": 4, "name": "Air Max", "collectionId":  2, "shoeImageURL": "" },
+    { "shoeId": 5, "name": "Nomad", "collectionId":  3, "shoeImageURL": "" },
+    { "shoeId": 6, "name": "Ultra Boost", "collectionId":  3, "shoeImageURL": ""}
   ],
   "profile": {
     "name": "Default User"
